@@ -1,9 +1,11 @@
-# Hypnotix
+# Winnotix - A Windows Port of Hypnotix [In Development]
 ![build](https://github.com/linuxmint/hypnotix/actions/workflows/build.yml/badge.svg)
 
-Hypnotix is an IPTV streaming application with support for live TV, movies and series.
+Winnotix/Hypnotix are IPTV streaming applications with support for live TV, movies and series.
 
-![shadow](https://user-images.githubusercontent.com/1138515/99553152-b8bac780-29b5-11eb-9d75-8756ed7581b6.png)
+![shadow](https://99553152-b8bac780-29b5-11eb-9d75-8756ed7581b6.png)
+
+Everything below this point is simply incorrect until the app is ready.
 
 It can support multiple IPTV providers of the following types:
 
